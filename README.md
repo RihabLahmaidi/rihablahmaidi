@@ -3,7 +3,6 @@
 💡 Started coding in 5th grade — passionate about building clean, responsive websites.
 🛠️ HTML | CSS | JavaScript
  Always learning. Always creating.
- my instagram : https://www.instagram.com/exitlock5
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1294368449622970441) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/exitlock5) 
